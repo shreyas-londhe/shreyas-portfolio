@@ -35,7 +35,7 @@ const projects = [
     description: 'A Web3 app to mint your own unique NFTs',
     stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
     sourceCode: 'https://github.com/shryasss/my-epic-nft',
-    livePreview: 'https://github.com',
+    livePreview: 'shryasss.github.io/my-epic-nft',
   },
 
   {

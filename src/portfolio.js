@@ -23,13 +23,6 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'My-Epic-NFT',
-    description: 'A Web3 app to mint your own unique NFTs',
-    stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
-    sourceCode: 'https://github.com/my-epic-nft',
-    livePreview: 'https://github.com',
-  },
-  {
     name: 'Crypto-Twitter',
     description:
       'A decentralized Twitter built using Solidity as backend and React as frontend.',
@@ -38,9 +31,17 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
+    name: 'My-Epic-NFT',
+    description: 'A Web3 app to mint your own unique NFTs',
+    stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
+    sourceCode: 'https://github.com/my-epic-nft',
+    livePreview: 'https://github.com',
+  },
+
+  {
     name: 'Wave-Portal',
     description:
-      'My first Web3 app which resgisters waves from various users on the blockchain',
+      'My first Web3 app which registers 👋s from various users on the blockchain',
     stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
     sourceCode: 'https://github.com/wave-portal',
     livePreview: 'https://github.com',

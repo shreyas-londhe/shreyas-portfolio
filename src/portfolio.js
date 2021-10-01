@@ -27,14 +27,14 @@ const projects = [
     description:
       'A decentralized Twitter built using Solidity as backend and React as frontend.',
     stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
-    sourceCode: 'https://github.com/crypto-twitter-backend',
+    sourceCode: 'https://github.com/shryasss/crypto-twitter-backend',
     livePreview: 'https://github.com',
   },
   {
     name: 'My-Epic-NFT',
     description: 'A Web3 app to mint your own unique NFTs',
     stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
-    sourceCode: 'https://github.com/my-epic-nft',
+    sourceCode: 'https://github.com/shryasss/my-epic-nft',
     livePreview: 'https://github.com',
   },
 
@@ -43,7 +43,7 @@ const projects = [
     description:
       'My first Web3 app which registers 👋s from various users on the blockchain',
     stack: ['Solidity', 'JavaScript', 'React', 'Web3Js'],
-    sourceCode: 'https://github.com/wave-portal',
+    sourceCode: 'https://github.com/shryasss/wave-portal',
     livePreview: 'https://github.com',
   },
 ]
